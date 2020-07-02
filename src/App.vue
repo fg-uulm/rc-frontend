@@ -7,7 +7,7 @@
 
 <script>
 import Layout from './submodules/base_layout/src/components/interface.vue';
-import Queue from './submodules/queue/src/components/HelloWorld.vue';
+import Queue from './submodules/queue/src/App.vue';
 
 export default {
   name: 'App',
